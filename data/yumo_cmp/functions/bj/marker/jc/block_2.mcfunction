@@ -1,0 +1,6 @@
+execute if data entity @e[distance=..0.5,limit=1,tag=yumo_cmp_ca_marker,sort=nearest] {data:{yumo_cmp_ca_block:1}} run setblock ~ ~ ~ minecraft:orange_shulker_box destroy
+execute if data entity @e[distance=..0.5,limit=1,tag=yumo_cmp_ca_marker,sort=nearest] {data:{yumo_cmp_ca_block:2}} run setblock ~ ~ ~ minecraft:white_shulker_box destroy
+execute if data entity @e[distance=..0.5,limit=1,tag=yumo_cmp_ca_marker,sort=nearest] {data:{yumo_cmp_ca_block:3}} run setblock ~ ~ ~ minecraft:yellow_shulker_box destroy
+execute if data entity @e[distance=..0.5,limit=1,tag=yumo_cmp_ca_marker,sort=nearest] {data:{yumo_cmp_ca_block:4}} run setblock ~ ~ ~ minecraft:black_shulker_box destroy
+execute if data entity @e[distance=..0.5,limit=1,tag=yumo_cmp_ca_marker,sort=nearest] {data:{yumo_cmp_ca_block:5}} run setblock ~ ~ ~ minecraft:light_blue_shulker_box destroy
+execute if data entity @e[distance=..0.5,limit=1,tag=yumo_cmp_ca_marker,sort=nearest] {data:{yumo_cmp_ca_block:6}} run setblock ~ ~ ~ minecraft:gray_shulker_box destroy

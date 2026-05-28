@@ -1,0 +1,33 @@
+{
+	"values": [	"yumo_cmp:bj/tick",
+				"yumo_cmp:bj/tick_cl",
+		
+	 			"yumo_cmp:cl/item_xh/tick",
+		       	"yumo_cmp:cl/item/tick",
+			   
+
+
+	           	"yumo_cmp:js/item/tick",
+
+
+	           	"yumo_cmp:xh/item/tick",
+
+
+
+				"yumo_cmp:gc/tick",
+
+				"yumo_cmp:ca/tick",
+				
+				"yumo_cmp:ca/item_used/player_pos_tp/tick",
+				"yumo_cmp:ca/item_used/tick",
+				"yumo_cmp:ca/item_used/spawn/summon",
+				
+
+				
+
+               	"yumo_cmp:debug/debug_tick",
+				
+			   	"yumo_cmp:main/scoreboard",
+				"yumo_cmp:main/tag/item_entity/tick"
+	]
+}

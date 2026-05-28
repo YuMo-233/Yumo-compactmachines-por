@@ -1,0 +1,6 @@
+{
+	"values": ["yumo_cmp:main/load",
+	           "yumo_cmp:configs",
+	           "yumo_cmp:main/load1"
+	]
+}

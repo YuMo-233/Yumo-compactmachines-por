@@ -1,0 +1,14 @@
+﻿{
+    "yumo_cmp.block.bj.text_1": "准备完善后投掷一块磨制深板岩开始产量推演",
+	"yumo_cmp.block.bj.text_2": "[错误]请在其中使用箱子和漏斗创建产量与耗材(可选)计算方块",
+	"yumo_cmp.block.bj.text_3": "[错误]缺少产量计算方块",
+	
+	"yumo_cmp.block.jx": "间隙",
+	"yumo_cmp.block.jx_1": "内含无尽虚空，不含盐",
+	
+	"yumo_cmp.item.personal_shrinking_device": "个人空间收缩装置",
+
+	
+	"yumo_cmp.block.cl": "物品产量方块",
+	"yumo_cmp.block.cl_1": "同时与染料投掷以更改颜色"
+}

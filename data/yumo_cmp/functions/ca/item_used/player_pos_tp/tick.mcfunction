@@ -1,0 +1,1 @@
+execute as @a at @s if data entity @s {Dimension:"minecraft:overworld"} run function yumo_cmp:ca/item_used/player_pos_tp/tp

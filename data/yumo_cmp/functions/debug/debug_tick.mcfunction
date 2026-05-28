@@ -1,0 +1,1 @@
+#execute in yumo_cmp:yumo_cmp_load run data modify block -4 1 -4 Items append value {Count:64b,Slot:0b,id:"minecraft:sand"}

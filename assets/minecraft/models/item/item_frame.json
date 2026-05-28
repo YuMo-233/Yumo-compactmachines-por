@@ -1,0 +1,32 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/item_frame"
+    },
+	"overrides" :[
+		{"predicate":{"custom_model_data":781500},"model":"yumo_cmp:block/yumo_cmp_cl"},
+		{"predicate":{"custom_model_data":781501},"model":"yumo_cmp:block/yumo_cmp_cl_1"},
+		{"predicate":{"custom_model_data":781502},"model":"yumo_cmp:block/yumo_cmp_cl_2"},
+		{"predicate":{"custom_model_data":781503},"model":"yumo_cmp:block/yumo_cmp_cl_3"},
+		{"predicate":{"custom_model_data":781504},"model":"yumo_cmp:block/yumo_cmp_cl_4"},
+		{"predicate":{"custom_model_data":781505},"model":"yumo_cmp:block/yumo_cmp_cl_5"},
+		{"predicate":{"custom_model_data":781506},"model":"yumo_cmp:block/yumo_cmp_cl_6"},
+		{"predicate":{"custom_model_data":781507},"model":"yumo_cmp:block/yumo_cmp_cl_7"},
+		{"predicate":{"custom_model_data":781508},"model":"yumo_cmp:block/yumo_cmp_cl_8"},
+		{"predicate":{"custom_model_data":781509},"model":"yumo_cmp:block/yumo_cmp_cl_9"},
+		{"predicate":{"custom_model_data":781510},"model":"yumo_cmp:block/yumo_cmp_cl_10"},
+		{"predicate":{"custom_model_data":781511},"model":"yumo_cmp:block/yumo_cmp_cl_11"},
+		{"predicate":{"custom_model_data":781512},"model":"yumo_cmp:block/yumo_cmp_cl_12"},
+		{"predicate":{"custom_model_data":781513},"model":"yumo_cmp:block/yumo_cmp_cl_13"},
+		{"predicate":{"custom_model_data":781514},"model":"yumo_cmp:block/yumo_cmp_cl_14"},
+		{"predicate":{"custom_model_data":781515},"model":"yumo_cmp:block/yumo_cmp_cl_15"},
+		{"predicate":{"custom_model_data":781516},"model":"yumo_cmp:block/yumo_cmp_cl_16"},
+		
+		{"predicate":{"custom_model_data":781521},"model":"minecraft:block/copper_block"},
+		{"predicate":{"custom_model_data":781522},"model":"minecraft:block/iron_block"},
+		{"predicate":{"custom_model_data":781523},"model":"minecraft:block/gold_block"},
+		{"predicate":{"custom_model_data":781524},"model":"minecraft:block/obsidian"},
+		{"predicate":{"custom_model_data":781525},"model":"minecraft:block/diamond_block"},
+		{"predicate":{"custom_model_data":781526},"model":"minecraft:block/netherite_block"}
+	]
+}

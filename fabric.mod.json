@@ -1,0 +1,13 @@
+{
+    "schemaVersion":1,
+    "id":"yumo_cmp",
+    "version":"1.2.13",
+    "name":"Yumo Compactmachines Por",
+    "description":"Optimizing compressed space by speculating on estimated production.\n通过推测预估产量来优化压缩空间。",
+    "authors":["yumo233"],
+    "contact":{"homepage":"https://modrinth.com/project/yumo-compactmachines-por"},
+    "license":"",
+    "icon":"pack.png",
+    "environment":"*",
+    "depends":{"fabric-resource-loader-v0":"*"}
+}

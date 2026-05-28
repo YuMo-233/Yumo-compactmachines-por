@@ -1,0 +1,17 @@
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:0}}}} run setblock ~ ~ ~ minecraft:shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:1}}}} run setblock ~ ~ ~ minecraft:white_shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:2}}}} run setblock ~ ~ ~ minecraft:orange_shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:3}}}} run setblock ~ ~ ~ minecraft:magenta_shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:4}}}} run setblock ~ ~ ~ minecraft:light_blue_shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:5}}}} run setblock ~ ~ ~ minecraft:yellow_shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:6}}}} run setblock ~ ~ ~ minecraft:lime_shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:7}}}} run setblock ~ ~ ~ minecraft:pink_shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:8}}}} run setblock ~ ~ ~ minecraft:gray_shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:9}}}} run setblock ~ ~ ~ minecraft:light_gray_shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:10}}}} run setblock ~ ~ ~ minecraft:cyan_shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:11}}}} run setblock ~ ~ ~ minecraft:purple_shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:12}}}} run setblock ~ ~ ~ minecraft:blue_shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:13}}}} run setblock ~ ~ ~ minecraft:brown_shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:14}}}} run setblock ~ ~ ~ minecraft:green_shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:15}}}} run setblock ~ ~ ~ minecraft:red_shulker_box
+execute if data entity @s {Item:{tag:{data:{yumo_cmp_ys:16}}}} run setblock ~ ~ ~ minecraft:black_shulker_box
